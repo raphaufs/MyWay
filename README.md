@@ -1,7 +1,5 @@
 # MyWay
 
-![Logo do MyWay](src/assets/LogoMyWay.png)
-
 O **MyWay** é um aplicativo para organizar pacientes, agendamentos e o acompanhamento da jornada de extração de siso. Este README tem duas partes: um guia de uso para usuários e, ao final, instruções para quem precisa executar o projeto localmente.
 
 ## Guia de uso
